@@ -60,10 +60,4 @@ Over the years, I’ve worked across **banking**, **insurance**, and **financial
 
 ---
 
-### ✍️ Random Dev Quote
-
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
-
----
-
 📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/domingojruiz21) | [Email](mailto:domingojruiz21@gmail.com)
